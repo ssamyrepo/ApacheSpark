@@ -5,6 +5,9 @@
     *   Spark is a unified, open-source computing engine for parallel data processing.
     *   It supports languages like Java, Scala, Python, and R.
     *   Spark is known for its speed, being potentially 100 times faster than MapReduce due to in-memory processing.
+ 
+      ![image](https://github.com/user-attachments/assets/a0e6c8e2-6ff3-48a4-aec5-247d83a2161a)
+
 *   **Spark Components:**
     *   **Low-Level APIs:** RDDs (Resilient Distributed Datasets) and distributed variables form the base.
     *   **Structured APIs:** Spark SQL, DataFrames, and Datasets are built on RDDs and optimized for use.
