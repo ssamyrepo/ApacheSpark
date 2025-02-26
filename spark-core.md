@@ -1,5 +1,4 @@
 
-### Core Concepts Covered
 
 *   **Spark Overview:**
     *   Spark is a unified, open-source computing engine for parallel data processing.
